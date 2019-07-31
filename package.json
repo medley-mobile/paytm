@@ -1,0 +1,41 @@
+{
+  "name": "cordova-plugin-paytm",
+  "version": "0.0.10",
+  "description": "\n    This Plugin allows you to integrate PayTM application into a cordova app.\n  ",
+  "cordova": {
+    "id": "cordova-plugin-paytm",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/medley-mobile/paytm.git"
+  },
+  "keywords": [
+    "PayTM",
+    "Payment",
+    "Gateway",
+    "Mobile",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    },
+    {
+      "name": "cordova-android",
+      "version": ">=7.0.0"
+    }
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/medley-mobile/paytm/issues"
+  },
+  "homepage": "https://github.com/medley-mobile/paytm#readme"
+}
